@@ -18513,5 +18513,12 @@
     "author": "Stephen Cross",
     "description": "Lightweight keyword-based task tracker using Logseq style keywords.",
     "repo": "scross01/obsidian-todoseq"
+  },
+  {
+    "id": "pdf-citation-back-button",
+    "name": "PDF Citation Back Button",
+    "author": "Giacomo Randazzo",
+    "description": "Adds a back button to PDFs when you click on internal links (citations)",
+    "repo": "giacomoran/obsidian-citation"
   }
 ]
